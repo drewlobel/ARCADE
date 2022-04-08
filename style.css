@@ -9,7 +9,7 @@
 
 }
 
-	.games a:link, a:visited {
+	.games a:link{
 	font-family: 'Brush Script MT', cursive;
 	color:#F8F0E3;
 	text-align: center;
