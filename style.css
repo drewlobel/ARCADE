@@ -9,8 +9,12 @@
 
 }
 
-	.games, a:link, a:visited, a:hover, a:active{
+	.games,{
 	font-family: 'Brush Script MT', cursive;
 	color:#F8F0E3;
 	text-align: center;
+}
+
+a:link, a:visited, a:hover, a:active{
+color:#F8F0E3;
 }
