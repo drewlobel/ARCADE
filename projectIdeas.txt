@@ -1,0 +1,6 @@
+1: Live clock in top right corner
+2: Toggle dark and light mode
+    2a: Use cookies to store toggle option
+    2b: Light mode will use Spice Orange instead or purple, and white instead of black
+    2c: The white text will change to a [color]
+    2d: 
