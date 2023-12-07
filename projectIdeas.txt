@@ -1,6 +1,13 @@
 1: Live clock in top right corner
+    1a: Copy code from the TOOLS site
+
 2: Toggle dark and light mode
     2a: Use cookies to store toggle option
     2b: Light mode will use Spice Orange instead or purple, and white instead of black
-    2c: The white text will change to a [color]
-    2d: 
+    2c: The white text will change to a [color] text
+    2d: Copy code from the TOOLS site
+
+3: Live website password change
+    3a: Have 1 password protected file that will dictate password on all sub-websites.
+    
+4: Killswitch to deactive account
