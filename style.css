@@ -22,3 +22,7 @@ color:#F8F0E3;
 a:visited{
 color:#F8F0E3;
 }
+
+.lightMode{
+	background-image: linear-gradient(90deg, white, #E6652D, #E6652D, white);
+	color:#F8F0E3;
